@@ -1,4 +1,4 @@
-#Hi I'm Sandesh!
+## 🌐 Socials:
 Passionate about creating intuitive, user-friendly designs and developing responsive web applications. I specialize in blending creativity with functionality to deliver seamless user experiences. Eager to grow and apply my skills in real-world projects, I am constantly learning and exploring the latest trends in design and web development. Excited to collaborate, innovate, and contribute to impactful digital solutions. Let's connect and build something amazing!
 
 
